@@ -1,0 +1,18 @@
+# Java compiled output
+*.class
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor and IDE files
+.idea/
+.vscode/
+
+# Backups and local environment
+*.save
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
